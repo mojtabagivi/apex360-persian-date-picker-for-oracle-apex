@@ -39,7 +39,7 @@
 
 تنظیمات بخش Initialization PL/SQL Code را به صورت زیر تنظیم نمایید:
 
-sql
+
 BEGIN
   EXECUTE immediate 'ALTER SESSION SET NLS_CALENDAR=PERSIAN';
   EXECUTE immediate 'ALTER SESSION SET NLS_DATE_FORMAT=''YYYY/MM/DD''';
