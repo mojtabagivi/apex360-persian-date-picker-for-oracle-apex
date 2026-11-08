@@ -207,9 +207,15 @@
 BEGIN
     EXECUTE IMMEDIATE 'ALTER SESSION SET NLS_CALENDAR=PERSIAN';
     EXECUTE IMMEDIATE 'ALTER SESSION SET NLS_DATE_FORMAT=''YYYY/MM/DD HH24:MI:SS''';
-END;```
+END;
+```
 
+---
 
-## منبع کتابخانه js
+## 📚 منبع کتابخانه JavaScript
 
-https://github.com/majidh1/JalaliDatePicker
+در توسعه این پلاگین، از کتابخانه متن‌باز [JalaliDatePicker](https://github.com/majidh1/JalaliDatePicker) برای پیاده‌سازی قابلیت انتخاب تاریخ شمسی استفاده شده است.
+
+از آقای [مجید حیدری](https://github.com/majidh1) بابت توسعه و انتشار این کتابخانه کاربردی سپاسگزاریم.
+
+تمام حقوق مربوط به کتابخانه مذکور متعلق به توسعه‌دهنده اصلی آن بوده و استفاده از آن تابع شرایط مجوز (License) پروژه اصلی است.
