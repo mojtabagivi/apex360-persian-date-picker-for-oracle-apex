@@ -32,7 +32,7 @@
 
 در این پلاگین، مکانیزمی برای نمایش تقویم خارج از محدوده محدودکننده Modal در نظر گرفته شده است تا از بریده شدن یا مخفی شدن بخش‌هایی از تقویم جلوگیری شود.
 
-![نمایش تقویم شمسی خارج از محدوده Modal در Oracle APEX](http://apex360.ir/wp-content/uploads/2026/10/show_calender_out_of_modal.png)
+![نمایش تقویم شمسی خارج از محدوده Modal در Oracle APEX](images/show_calender_out_of_modal.png)
 
 ### ۳. انتخاب تاریخ و زمان (Date & Time Picker)
 
@@ -46,7 +46,7 @@
 
 توسعه‌دهندگان می‌توانند با توجه به نیاز برنامه، حالت موردنظر را پیکربندی کنند.
 
-![تنظیمات پلاگین انتخاب تاریخ و زمان Oracle APEX](http://apex360.ir/wp-content/uploads/2026/10/setting.png)
+![تنظیمات پلاگین انتخاب تاریخ و زمان Oracle APEX](images/setting.png)
 
 ### ۴. تعیین حداقل و حداکثر تاریخ و زمان
 
@@ -80,7 +80,7 @@
 
 همچنین امکان شخصی‌سازی رنگ اصلی تقویم وجود دارد.
 
-![شخصی‌سازی رنگ و پوسته تقویم شمسی](http://apex360.ir/wp-content/uploads/2026/11/multicolor.jpg)
+![شخصی‌سازی رنگ و پوسته تقویم شمسی](images/multicolor.jpg)
 
 ### ۶. پشتیبانی از ارقام فارسی و انگلیسی
 
@@ -91,7 +91,7 @@
 
 این قابلیت به توسعه‌دهندگان اجازه می‌دهد نمایش اطلاعات را متناسب با زبان و استانداردهای رابط کاربری برنامه تنظیم کنند.
 
-![نمایش ارقام فارسی و انگلیسی در تقویم](http://apex360.ir/wp-content/uploads/2026/10/english_or_persian_digit.jpg)
+![نمایش ارقام فارسی و انگلیسی در تقویم](images/english_or_persian_digit.jpg)
 
 ### ۷. تنظیم جداکننده تاریخ و زمان
 
@@ -103,7 +103,7 @@
 - جداکننده زمان (Time Separator)
 - جداکننده تاریخ و زمان (DateTime Separator)
 
-![تنظیم جداکننده‌های تاریخ و زمان](http://apex360.ir/wp-content/uploads/2026/11/seprator.png)
+![تنظیم جداکننده‌های تاریخ و زمان](images/seprator.png)
 
 ### ۸. تنظیم بازه‌های زمانی (Time Increments)
 
@@ -117,7 +117,7 @@
 
 این قابلیت در سیستم‌های رزرو، نوبت‌دهی و زمان‌بندی فعالیت‌ها کاربرد دارد.
 
-![تنظیم بازه‌های زمانی در پلاگین](http://apex360.ir/wp-content/uploads/2026/10/time_incremets.png)
+![تنظیم بازه‌های زمانی در پلاگین](images/time_incremets.png)
 
 ### ۹. رابط کاربری سازگار با موبایل (Responsive)
 
@@ -165,7 +165,7 @@
 
 فایل SQL نصب پلاگین را از لینک زیر دریافت کنید:
 
-[دانلود پلاگین APEX360 Persian Jalali DateTimePicker](http://apex360.ir/wp-content/uploads/2026/10/item_type_plugin_ir_apex360_datetimepicker_apex.sql)
+[دانلود پلاگین APEX360 Persian Jalali DateTimePicker](images/item_type_plugin_ir_apex360_datetimepicker_apex.sql)
 
 ### مرحله دوم: وارد کردن پلاگین در Oracle APEX
 
@@ -183,7 +183,7 @@
 
 در این بخش می‌توانید تنظیمات عمومی و سطح Application پلاگین را مشاهده و پیکربندی کنید.
 
-![تنظیمات عمومی پلاگین در Oracle APEX](http://apex360.ir/wp-content/uploads/2026/10/component_setting2.png)
+![تنظیمات عمومی پلاگین در Oracle APEX](images/component_setting2.png)
 
 ### مرحله چهارم: استفاده از پلاگین
 
