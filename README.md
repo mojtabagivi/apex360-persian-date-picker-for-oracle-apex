@@ -1,5 +1,5 @@
 # 📅 پلاگین تقویم جلالی Oracle APEX | Persian Date Picker
-<p align="center"><img src="images/Persian Date Picker.jpg" alt="پلاگین تقویم جلالی" width="100%" /></p>
+<p align="center"><img src="images/Persian-Date-Time-Picker.jpg" alt="پلاگین تقویم جلالی" width="100%" /></p>
 
 # پلاگین تقویم شمسی و انتخاب تاریخ و زمان APEX360 برای Oracle APEX
 
